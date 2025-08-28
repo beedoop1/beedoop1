@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jason  
 
-I am a software engineer with experience building **full-stack applications**. I enjoy writing code to solve problems and bringing ideas to life through software.  
+I’m a software engineer who loves building **full-stack applications**. I’m passionate about writing clean, efficient code and bringing ideas to life through software.
 
 ---
 
@@ -41,7 +41,7 @@ I created this app because I couldn’t find something similar on the web that w
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pascal-005CA5?style=for-the-badge&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Pascal-005CA5?style=for-the-badge&logoColor=white" /> -->
 </p>  
 
 **Frameworks & Tools:**  
