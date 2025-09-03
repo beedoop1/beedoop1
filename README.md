@@ -9,6 +9,7 @@ I’m a software engineer who loves building **full-stack applications**. I’m 
 My most recent project is a **Shazam-style music recognition web app**.  
 I created this app because I couldn’t find something similar on the web that worked without needing to download an app.  
 
+🎥 [**Watch Demo Video**](https://youtu.be/pkx5p3WEjlk) 
 👉 [**Try the app here**](https://shazam-eta.vercel.app/)  
 
 **Tech Stack Used:**  
