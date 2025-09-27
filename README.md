@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jason  
 
-I’m a software engineer who loves building **full-stack applications**. I’m passionate about writing clean, efficient code and bringing ideas to life through software.
+This is my GitHub profile, showcasing some projects I have worked on.
 
 ---
 
